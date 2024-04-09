@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: project
-        image: docker171193/projectimage
+        image: Docker171193/projectimage
         ports:
         - containerPort: 80
